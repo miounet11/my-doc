@@ -1,0 +1,386 @@
+{
+  "generatedAt": "2026-03-19T02:36:48.039933Z",
+  "count": 76,
+  "items": [
+    {
+      "path": "archive/review/2026-03-19/evidence.json",
+      "size": 637,
+      "modified": "2026-03-19T09:58:48.373878"
+    },
+    {
+      "path": "archive/review/2026-03-19/intel-brief.md",
+      "size": 1228,
+      "modified": "2026-03-19T09:58:48.373838"
+    },
+    {
+      "path": "archive/review/2026-03-19/mentor-feedback.md",
+      "size": 1503,
+      "modified": "2026-03-19T09:58:48.373728"
+    },
+    {
+      "path": "archive/review/2026-03-19/phase-review.md",
+      "size": 4250,
+      "modified": "2026-03-19T09:58:48.373899"
+    },
+    {
+      "path": "docs/ACP_ACPX_INTEGRATION_PROTOCOL.md",
+      "size": 7661,
+      "modified": "2026-03-16T11:49:19"
+    },
+    {
+      "path": "docs/ACP_COMPLEX_WORKFLOW_PROTOCOL.md",
+      "size": 3936,
+      "modified": "2026-03-10T02:14:17"
+    },
+    {
+      "path": "docs/AGENT_BOOTCAMP_PROTOCOL_2026-03-10.md",
+      "size": 4437,
+      "modified": "2026-03-10T21:31:21"
+    },
+    {
+      "path": "docs/ALIVE_LOOP_PROTOCOL.md",
+      "size": 1801,
+      "modified": "2026-03-09T20:01:33"
+    },
+    {
+      "path": "docs/AUTONOMY_PROTOCOL.md",
+      "size": 4388,
+      "modified": "2026-03-10T02:14:17"
+    },
+    {
+      "path": "docs/BRAIN_HANDS_BOUNDARY.md",
+      "size": 2292,
+      "modified": "2026-03-09T20:01:33"
+    },
+    {
+      "path": "docs/CANVAS_MEMORY_ARCHITECTURE.md",
+      "size": 2965,
+      "modified": "2026-03-10T11:00:00"
+    },
+    {
+      "path": "docs/CLAUDE_CODE_WEAPON_GUIDE.md",
+      "size": 3072,
+      "modified": "2026-03-10T10:33:00"
+    },
+    {
+      "path": "docs/CODEX_SUPERVISION_LOOP.md",
+      "size": 1295,
+      "modified": "2026-03-07T14:04:30"
+    },
+    {
+      "path": "docs/CONTEXT_HUB_ADOPTION_NOTES.md",
+      "size": 3647,
+      "modified": "2026-03-10T17:39:02"
+    },
+    {
+      "path": "docs/CONTEXT_HUB_FOR_OPENCLAW.md",
+      "size": 2387,
+      "modified": "2026-03-18T18:20:00"
+    },
+    {
+      "path": "docs/ENGINEERING_POLISH_BOARD_2026-03-10.md",
+      "size": 5737,
+      "modified": "2026-03-10T11:09:34"
+    },
+    {
+      "path": "docs/EXTERNAL_SKILL_INTAKE_RULES.md",
+      "size": 3592,
+      "modified": "2026-03-10T13:31:27"
+    },
+    {
+      "path": "docs/MEMORY_ARCHITECTURE.md",
+      "size": 1986,
+      "modified": "2026-03-09T20:01:33"
+    },
+    {
+      "path": "docs/MEMORY_TREE_RECONCILIATION.md",
+      "size": 10178,
+      "modified": "2026-03-18T08:16:57"
+    },
+    {
+      "path": "docs/NECESSARY_VS_NONESSENTIAL_KNOWLEDGE.md",
+      "size": 3381,
+      "modified": "2026-03-18T08:17:25"
+    },
+    {
+      "path": "docs/OPENCLAW_2026_3_7_BRAIN_UPGRADE.md",
+      "size": 2473,
+      "modified": "2026-03-09T09:28:00"
+    },
+    {
+      "path": "docs/OPENCLAW_2026_3_8_E2E_ACCEPTANCE.md",
+      "size": 3379,
+      "modified": "2026-03-09T18:52:21"
+    },
+    {
+      "path": "docs/OPENCLAW_AGENT_PACKAGING_RULES.md",
+      "size": 4584,
+      "modified": "2026-03-10T02:34:35"
+    },
+    {
+      "path": "docs/OPENCLAW_CAPABILITY_MATRIX.md",
+      "size": 3714,
+      "modified": "2026-03-09T11:50:25"
+    },
+    {
+      "path": "docs/OPENCLAW_CURRENT_ARCHITECTURE_2026-03-16.md",
+      "size": 9043,
+      "modified": "2026-03-16T14:00:50"
+    },
+    {
+      "path": "docs/OPENCLAW_EXECUTION_HANDOFF_PROTOCOL.md",
+      "size": 10056,
+      "modified": "2026-03-18T07:12:05"
+    },
+    {
+      "path": "docs/OPENCLAW_FIRST_PARTY_STACK.md",
+      "size": 1997,
+      "modified": "2026-03-09T10:32:04"
+    },
+    {
+      "path": "docs/OPENCLAW_GOAL_DRIVEN_PROTOCOL.md",
+      "size": 7241,
+      "modified": "2026-03-19T00:54:38"
+    },
+    {
+      "path": "docs/OPENCLAW_NEXT_PHASE_ROADMAP_V1.md",
+      "size": 10896,
+      "modified": "2026-03-14T05:24:37"
+    },
+    {
+      "path": "docs/OPENCLAW_PRODUCT_BIBLE.md",
+      "size": 14612,
+      "modified": "2026-03-14T05:13:13"
+    },
+    {
+      "path": "docs/OPENCLAW_RUNTIME_RECOVERY_2026-03-11.md",
+      "size": 12373,
+      "modified": "2026-03-12T10:07:35"
+    },
+    {
+      "path": "docs/OPENCLAW_RUNTIME_REPAIR_2026-03-07.md",
+      "size": 8314,
+      "modified": "2026-03-07T21:57:55"
+    },
+    {
+      "path": "docs/OPENCLAW_SELF_CHECK_CORRECTION.md",
+      "size": 4624,
+      "modified": "2026-03-08T13:15:14"
+    },
+    {
+      "path": "docs/OPENCLAW_STABLE_STATE_BLUEPRINT.md",
+      "size": 6483,
+      "modified": "2026-03-09T10:05:13"
+    },
+    {
+      "path": "docs/OPENCLAW_SYSTEM_OBJECTIVE_EVALUATION_V1.md",
+      "size": 5841,
+      "modified": "2026-03-09T00:07:06"
+    },
+    {
+      "path": "docs/OPERATIONAL_DOCTRINE.md",
+      "size": 5690,
+      "modified": "2026-03-10T10:33:00"
+    },
+    {
+      "path": "docs/PHASE_REVIEW_LOOP.md",
+      "size": 2157,
+      "modified": "2026-03-19T09:58:48.370062"
+    },
+    {
+      "path": "docs/SKILL_MATURITY_REGISTRY_RULES.md",
+      "size": 2080,
+      "modified": "2026-03-10T11:30:56"
+    },
+    {
+      "path": "docs/SYSTEM_LOCAL_CITY_NETWORK_PLAN.md",
+      "size": 20156,
+      "modified": "2026-03-16T22:24:19"
+    },
+    {
+      "path": "docs/TELEGRAM_COMPATIBILITY_RULES.md",
+      "size": 3736,
+      "modified": "2026-03-10T02:43:02"
+    },
+    {
+      "path": "docs/TOOL_GOVERNANCE_MATRIX.md",
+      "size": 3380,
+      "modified": "2026-03-09T20:23:26"
+    },
+    {
+      "path": "docs/WORKFLOW_SUPERPOWERS_ABSORPTION.md",
+      "size": 2339,
+      "modified": "2026-03-18T18:20:24"
+    },
+    {
+      "path": "docs/claude-execution-protocol.md",
+      "size": 2300,
+      "modified": "2026-03-08T12:33:41"
+    },
+    {
+      "path": "docs/imiaoda-content-growth-plan.md",
+      "size": 14648,
+      "modified": "2026-03-19T10:36:47.960990"
+    },
+    {
+      "path": "docs/intel/AI_FRONTIER_LOOP.md",
+      "size": 1289,
+      "modified": "2026-03-07T11:54:23"
+    },
+    {
+      "path": "docs/intel/frontier-ai-2026-03-07.md",
+      "size": 567,
+      "modified": "2026-03-10T08:23:38"
+    },
+    {
+      "path": "docs/intel/frontier-ai-2026-03-08.md",
+      "size": 390,
+      "modified": "2026-03-07T11:45:26"
+    },
+    {
+      "path": "docs/intel/frontier-ai-2026-03-09.md",
+      "size": 3732,
+      "modified": "2026-03-07T14:13:08"
+    },
+    {
+      "path": "memory/2026-03-07.md",
+      "size": 4001,
+      "modified": "2026-03-07T08:23:19"
+    },
+    {
+      "path": "memory/2026-03-08.md",
+      "size": 9907,
+      "modified": "2026-03-09T08:03:30"
+    },
+    {
+      "path": "memory/2026-03-09.md",
+      "size": 19383,
+      "modified": "2026-03-09T21:11:24"
+    },
+    {
+      "path": "memory/2026-03-10.md",
+      "size": 14924,
+      "modified": "2026-03-10T11:27:58"
+    },
+    {
+      "path": "memory/2026-03-11.md",
+      "size": 13553,
+      "modified": "2026-03-12T09:56:53"
+    },
+    {
+      "path": "memory/2026-03-12.md",
+      "size": 8705,
+      "modified": "2026-03-12T23:50:52"
+    },
+    {
+      "path": "memory/2026-03-13.md",
+      "size": 25921,
+      "modified": "2026-03-14T00:54:52"
+    },
+    {
+      "path": "memory/2026-03-14.md",
+      "size": 14555,
+      "modified": "2026-03-15T00:01:22"
+    },
+    {
+      "path": "memory/2026-03-15.md",
+      "size": 9302,
+      "modified": "2026-03-15T23:40:40"
+    },
+    {
+      "path": "memory/2026-03-16.md",
+      "size": 59953,
+      "modified": "2026-03-16T23:36:49"
+    },
+    {
+      "path": "memory/2026-03-17.md",
+      "size": 11800,
+      "modified": "2026-03-17T15:02:59"
+    },
+    {
+      "path": "memory/2026-03-18.md",
+      "size": 25927,
+      "modified": "2026-03-19T00:40:55"
+    },
+    {
+      "path": "memory/bugs.md",
+      "size": 1869,
+      "modified": "2026-03-07T08:18:50"
+    },
+    {
+      "path": "memory/decisions.md",
+      "size": 1661,
+      "modified": "2026-03-07T08:18:50"
+    },
+    {
+      "path": "memory/learnings.md",
+      "size": 2530,
+      "modified": "2026-03-07T08:18:50"
+    },
+    {
+      "path": "memory/optimizations.md",
+      "size": 270,
+      "modified": "2026-03-13T16:55:07"
+    },
+    {
+      "path": "memory/patterns.md",
+      "size": 1330,
+      "modified": "2026-03-07T08:18:50"
+    },
+    {
+      "path": "memory/system-knowledge.md",
+      "size": 1912,
+      "modified": "2026-03-13T15:35:12"
+    },
+    {
+      "path": "projects/new2005-finance/docs/EVIDENCE_BOARD.md",
+      "size": 1383,
+      "modified": "2026-03-19T01:33:53"
+    },
+    {
+      "path": "projects/new2005-finance/docs/GOAL_DRIVEN_MISSION.md",
+      "size": 1983,
+      "modified": "2026-03-19T01:33:38"
+    },
+    {
+      "path": "projects/new2005-finance/docs/RELEASE_ROLLBACK.md",
+      "size": 798,
+      "modified": "2026-03-19T01:34:19"
+    },
+    {
+      "path": "projects/new2005-finance/docs/content-factory-mvp.md",
+      "size": 7029,
+      "modified": "2026-03-15T21:19:46"
+    },
+    {
+      "path": "projects/new2005-finance/docs/content-generation.md",
+      "size": 1434,
+      "modified": "2026-03-18T11:37:31"
+    },
+    {
+      "path": "workspace-root/IDENTITY.md",
+      "size": 636,
+      "modified": "2026-03-19T01:40:45.508464"
+    },
+    {
+      "path": "workspace-root/MEMORY.md",
+      "size": 3221,
+      "modified": "2026-03-19T01:40:45.508857"
+    },
+    {
+      "path": "workspace-root/SOUL.md",
+      "size": 1673,
+      "modified": "2026-03-19T01:40:45.506745"
+    },
+    {
+      "path": "workspace-root/TOOLS.md",
+      "size": 860,
+      "modified": "2026-03-19T01:40:45.508004"
+    },
+    {
+      "path": "workspace-root/USER.md",
+      "size": 477,
+      "modified": "2026-03-19T01:40:45.507499"
+    }
+  ]
+}
