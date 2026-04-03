@@ -1,0 +1,81 @@
+{
+  "accounts": [
+    {
+      "handle": "sama",
+      "name": "Sam Altman",
+      "kind": "person",
+      "priority": "P0",
+      "reason": "OpenAI product direction, deployment posture, and market-moving commentary."
+    },
+    {
+      "handle": "gdb",
+      "name": "Greg Brockman",
+      "kind": "person",
+      "priority": "P0",
+      "reason": "OpenAI engineering and infrastructure signal."
+    },
+    {
+      "handle": "karpathy",
+      "name": "Andrej Karpathy",
+      "kind": "person",
+      "priority": "P0",
+      "reason": "Model engineering, agent design, and practical AI software insight."
+    },
+    {
+      "handle": "varun_mathur",
+      "name": "Varun Mathur",
+      "kind": "person",
+      "priority": "P0",
+      "reason": "Claude Code and practical builder workflow signal; high-value operator to track for real output."
+    },
+    {
+      "handle": "demishassabis",
+      "name": "Demis Hassabis",
+      "kind": "person",
+      "priority": "P0",
+      "reason": "Google DeepMind research and frontier model direction."
+    },
+    {
+      "handle": "ylecun",
+      "name": "Yann LeCun",
+      "kind": "person",
+      "priority": "P1",
+      "reason": "Long-horizon research critique and alternative technical framing."
+    },
+    {
+      "handle": "Thom_Wolf",
+      "name": "Thomas Wolf",
+      "kind": "person",
+      "priority": "P1",
+      "reason": "Open-source frontier AI and Hugging Face ecosystem signal."
+    },
+    {
+      "handle": "fchollet",
+      "name": "Francois Chollet",
+      "kind": "person",
+      "priority": "P1",
+      "reason": "Reasoning benchmarks, model capability framing, and evaluation signal."
+    },
+    {
+      "handle": "OpenAI",
+      "name": "OpenAI",
+      "kind": "org",
+      "priority": "P0",
+      "reason": "Official release confirmation and product rollout signal."
+    },
+    {
+      "handle": "AnthropicAI",
+      "name": "Anthropic",
+      "kind": "org",
+      "priority": "P0",
+      "reason": "Official Claude/API release confirmation."
+    },
+    {
+      "handle": "GoogleDeepMind",
+      "name": "Google DeepMind",
+      "kind": "org",
+      "priority": "P0",
+      "reason": "Official Gemini/DeepMind release confirmation."
+    }
+  ]
+}

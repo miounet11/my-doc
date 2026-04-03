@@ -1,0 +1,22 @@
+{
+  "sources": [
+    {
+      "id": "claude-code-changelog",
+      "label": "Claude Code Changelog",
+      "kind": "html_changelog",
+      "url": "https://code.claude.com/docs/en/changelog"
+    },
+    {
+      "id": "obra-superpowers-releases",
+      "label": "GitHub Releases - obra/superpowers",
+      "kind": "atom_release",
+      "url": "https://github.com/obra/superpowers/releases.atom"
+    },
+    {
+      "id": "fsck-blog-rss",
+      "label": "Massively Parallel Procrastination RSS",
+      "kind": "rss_blog",
+      "url": "https://blog.fsck.com/feed/rss.xml"
+    }
+  ]
+}

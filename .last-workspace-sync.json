@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-04-03T11:46:22.698099Z",
+  "manifest": "config/workspace-sync-manifest.json",
+  "managedRoots": [
+    "docs",
+    "memory",
+    "projects",
+    "workspace-root"
+  ],
+  "desiredCount": 487,
+  "copiedCount": 0,
+  "removedCount": 0,
+  "missingSources": [],
+  "verifyTargets": [
+    "content/workspace-root/MEMORY.md",
+    "content/docs/OPENCLAW_OPERATING_CHECKLIST.md",
+    "content/memory/2026-04-02.md",
+    "content/memory/2026-04-03.md"
+  ],
+  "copiedSample": [],
+  "removedSample": []
+}

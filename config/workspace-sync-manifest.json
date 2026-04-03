@@ -1,0 +1,36 @@
+{
+  "files": [
+    { "source": "AGENTS.md", "target": "workspace-root/AGENTS.md" },
+    { "source": "HEARTBEAT.md", "target": "workspace-root/HEARTBEAT.md" },
+    { "source": "SOUL.md", "target": "workspace-root/SOUL.md" },
+    { "source": "USER.md", "target": "workspace-root/USER.md" },
+    { "source": "TOOLS.md", "target": "workspace-root/TOOLS.md" },
+    { "source": "IDENTITY.md", "target": "workspace-root/IDENTITY.md" },
+    { "source": "MEMORY.md", "target": "workspace-root/MEMORY.md" }
+  ],
+  "groups": [
+    {
+      "source_base": "memory",
+      "target_base": "memory",
+      "include": ["*.md"],
+      "exclude": [".DS_Store"]
+    },
+    {
+      "source_base": "docs",
+      "target_base": "docs",
+      "include": ["**/*.md", "**/*.json"],
+      "exclude": ["**/.DS_Store", "intel/x-watch/artifacts/**"]
+    },
+    {
+      "source_base": "projects",
+      "target_base": "projects",
+      "include": ["*/docs/**/*.md", "*/docs/**/*.json"],
+      "exclude": ["**/.DS_Store"]
+    }
+  ],
+  "verify_targets": [
+    "content/workspace-root/MEMORY.md",
+    "content/docs/OPENCLAW_OPERATING_CHECKLIST.md",
+    "content/memory/2026-04-02.md"
+  ]
+}

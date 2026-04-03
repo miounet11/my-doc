@@ -1,0 +1,38 @@
+[
+  {
+    "handle": "OpenAI",
+    "name": "OpenAI",
+    "account_priority": "P0",
+    "kind": "org",
+    "score": 12,
+    "priority": "P1 review",
+    "action_type": "workflow method review",
+    "reason": "Official release confirmation and product rollout signal.",
+    "post": "OpenAI 认证账号 @OpenAI 12小时 前 It’s now easier to find, reuse, and build on the files you upload and create in ChatGPT. You can quickly reference files in a chat using recent files in the toolbar, ask ChatGPT about something you’ve uploaded, or browse your files in the new Library tab in the web sidebar. 图像 322 回复、415 次转帖、3692 喜欢、697 书签、411945 次观看",
+    "rationale": "P0 watch account; official org source; chatgpt product change; tooling signal; builder execution signal; fresh relative timestamp"
+  },
+  {
+    "handle": "karpathy",
+    "name": "Andrej Karpathy",
+    "account_priority": "P0",
+    "kind": "person",
+    "score": 8,
+    "priority": "P1 review",
+    "action_type": "workflow method review",
+    "reason": "Model engineering, agent design, and practical AI software insight.",
+    "post": "Andrej Karpathy 认证账号 @karpathy 2025年2月3日 There's a new kind of coding I call \\\"vibe coding\\\", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It's possible because the LLMs (e.g. Cursor Composer w Sonnet) are getting too good. Also I just talk to Composer with SuperWhisper 1433 回复、6014 次转帖、33513 喜欢、17440 书签、6852448 次观看",
+    "rationale": "P0 watch account; builder workflow signal; recent explicit year"
+  },
+  {
+    "handle": "GoogleDeepMind",
+    "name": "Google DeepMind",
+    "account_priority": "P0",
+    "kind": "org",
+    "score": 6,
+    "priority": "P1 review",
+    "action_type": "official update review",
+    "reason": "Official Gemini/DeepMind release confirmation.",
+    "post": "Google DeepMind 已转帖 Pushmeet Kohli 认证账号 @pushmeet 3月20日 Our AlphaProof paper is in this week’s issue of @Nature ! In 2024, @GoogleDeepMind 's proof agents AlphaProof & AlphaGeometry together made a substantial leap in AI by achieving the silver-medal standard in solving IMO problems. The Nature paper describes the technical 图像 21 回复、99 次转帖、698 喜欢、209 书签、75464 次观看",
+    "rationale": "P0 watch account; official org source; agent systems overlap"
+  }
+]

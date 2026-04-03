@@ -1,0 +1,16 @@
+[
+  {
+    "lane": "builders",
+    "priority": "P0 now",
+    "title": "v5.0.7",
+    "source": "GitHub Releases - obra/superpowers",
+    "link": "https://github.com/obra/superpowers/releases/tag/v5.0.7",
+    "date": "2026-04-01T03:25:11+08:00",
+    "why": "New release movement from GitHub Releases - obra/superpowers: v5.0.7",
+    "score": 7,
+    "rationale": "already ranked P0 in builder lane; explicit workflow/tool impact; builder methodology source with direct operator value",
+    "promotion_target": "doctrine/workflow/evaluation",
+    "action_type": "method review",
+    "source_family": "obra-superpowers-releases"
+  }
+]

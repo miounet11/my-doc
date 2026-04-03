@@ -1,0 +1,2916 @@
+{
+  "summary": {
+    "generatedAt": "2026-03-30T10:21:56.228081Z",
+    "total": 358,
+    "okCount": 353,
+    "badCount": 5,
+    "badSample": [
+      {
+        "rel": "docs/intel/x-watch-curated/x-watch-curated-20260330-181348.json",
+        "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260330-181348.json",
+        "local_exists": false,
+        "status": 404,
+        "ok": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "rel": "docs/intel/x-watch-curated/x-watch-curated-20260330-181348.md",
+        "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260330-181348.md",
+        "local_exists": false,
+        "status": 404,
+        "ok": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "rel": "docs/intel/x-watch/x-watch-20260330-181348.md",
+        "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260330-181348.md",
+        "local_exists": false,
+        "status": 404,
+        "ok": false,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "rel": "projects/chat-mirror/docs/GOAL_DRIVEN_UI_WORKFLOW.md",
+        "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/GOAL_DRIVEN_UI_WORKFLOW.md",
+        "local_exists": true,
+        "status": 403,
+        "ok": false,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "rel": "projects/chat-mirror/docs/HARMONY_PACKAGING.md",
+        "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/HARMONY_PACKAGING.md",
+        "local_exists": true,
+        "status": 403,
+        "ok": false,
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  "results": [
+    {
+      "rel": "docs/ACP_ACPX_INTEGRATION_PROTOCOL.md",
+      "url": "https://mydoc.inping.com/content/docs/ACP_ACPX_INTEGRATION_PROTOCOL.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/ACP_COMPLEX_WORKFLOW_PROTOCOL.md",
+      "url": "https://mydoc.inping.com/content/docs/ACP_COMPLEX_WORKFLOW_PROTOCOL.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/AGENT_BOOTCAMP_PROTOCOL_2026-03-10.md",
+      "url": "https://mydoc.inping.com/content/docs/AGENT_BOOTCAMP_PROTOCOL_2026-03-10.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/AGENT_BUS_ADAPTER_INTEGRATION_PLAN.md",
+      "url": "https://mydoc.inping.com/content/docs/AGENT_BUS_ADAPTER_INTEGRATION_PLAN.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/AGENT_BUS_TRACE_LAYOUT.md",
+      "url": "https://mydoc.inping.com/content/docs/AGENT_BUS_TRACE_LAYOUT.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/AI视频生成系统总体方案.md",
+      "url": "https://mydoc.inping.com/content/docs/AI%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E7%B3%BB%E7%BB%9F%E6%80%BB%E4%BD%93%E6%96%B9%E6%A1%88.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/AI视频题材白名单_黑名单与分镜语法规范.md",
+      "url": "https://mydoc.inping.com/content/docs/AI%E8%A7%86%E9%A2%91%E9%A2%98%E6%9D%90%E7%99%BD%E5%90%8D%E5%8D%95_%E9%BB%91%E5%90%8D%E5%8D%95%E4%B8%8E%E5%88%86%E9%95%9C%E8%AF%AD%E6%B3%95%E8%A7%84%E8%8C%83.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/ALIVE_LOOP_PROTOCOL.md",
+      "url": "https://mydoc.inping.com/content/docs/ALIVE_LOOP_PROTOCOL.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/ARTIFACT_EXPECTATIONS.md",
+      "url": "https://mydoc.inping.com/content/docs/ARTIFACT_EXPECTATIONS.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/AUTONOMY_PROTOCOL.md",
+      "url": "https://mydoc.inping.com/content/docs/AUTONOMY_PROTOCOL.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/AUTO_GROWTH_ENGINE_DEV_DOC.md",
+      "url": "https://mydoc.inping.com/content/docs/AUTO_GROWTH_ENGINE_DEV_DOC.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/BRAIN_HANDS_BOUNDARY.md",
+      "url": "https://mydoc.inping.com/content/docs/BRAIN_HANDS_BOUNDARY.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/CANVAS_MEMORY_ARCHITECTURE.md",
+      "url": "https://mydoc.inping.com/content/docs/CANVAS_MEMORY_ARCHITECTURE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/CLAUDE_CODE_WEAPON_GUIDE.md",
+      "url": "https://mydoc.inping.com/content/docs/CLAUDE_CODE_WEAPON_GUIDE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/CODEX_SUPERVISION_LOOP.md",
+      "url": "https://mydoc.inping.com/content/docs/CODEX_SUPERVISION_LOOP.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/CONTEXT_HUB_ADOPTION_NOTES.md",
+      "url": "https://mydoc.inping.com/content/docs/CONTEXT_HUB_ADOPTION_NOTES.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/CONTEXT_HUB_FOR_OPENCLAW.md",
+      "url": "https://mydoc.inping.com/content/docs/CONTEXT_HUB_FOR_OPENCLAW.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/ENGINEERING_POLISH_BOARD_2026-03-10.md",
+      "url": "https://mydoc.inping.com/content/docs/ENGINEERING_POLISH_BOARD_2026-03-10.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/EVIDENCE_AND_EVAL_RULES.md",
+      "url": "https://mydoc.inping.com/content/docs/EVIDENCE_AND_EVAL_RULES.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/EVIDENCE_DOWNGRADE_RULES.md",
+      "url": "https://mydoc.inping.com/content/docs/EVIDENCE_DOWNGRADE_RULES.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/EXTERNAL_SKILL_INTAKE_RULES.md",
+      "url": "https://mydoc.inping.com/content/docs/EXTERNAL_SKILL_INTAKE_RULES.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/HARNESS_CHECKLIST.md",
+      "url": "https://mydoc.inping.com/content/docs/HARNESS_CHECKLIST.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/MEMORY_ARCHITECTURE.md",
+      "url": "https://mydoc.inping.com/content/docs/MEMORY_ARCHITECTURE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/MEMORY_TREE_RECONCILIATION.md",
+      "url": "https://mydoc.inping.com/content/docs/MEMORY_TREE_RECONCILIATION.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/MYDOC_PUBLISH_GUARDRAIL.md",
+      "url": "https://mydoc.inping.com/content/docs/MYDOC_PUBLISH_GUARDRAIL.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/MYDOC_SYNC_RUNBOOK.md",
+      "url": "https://mydoc.inping.com/content/docs/MYDOC_SYNC_RUNBOOK.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/NECESSARY_VS_NONESSENTIAL_KNOWLEDGE.md",
+      "url": "https://mydoc.inping.com/content/docs/NECESSARY_VS_NONESSENTIAL_KNOWLEDGE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_2026_3_7_BRAIN_UPGRADE.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_2026_3_7_BRAIN_UPGRADE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_2026_3_8_E2E_ACCEPTANCE.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_2026_3_8_E2E_ACCEPTANCE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_AGENT_COLLABORATION_ARCHITECTURE.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_AGENT_COLLABORATION_ARCHITECTURE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_AGENT_PACKAGING_RULES.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_AGENT_PACKAGING_RULES.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_AUTHORITY_POLICY.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_AUTHORITY_POLICY.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_BEST_PRACTICES.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_BEST_PRACTICES.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_CAPABILITY_MATRIX.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_CAPABILITY_MATRIX.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_CURRENT_ARCHITECTURE_2026-03-16.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_CURRENT_ARCHITECTURE_2026-03-16.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_DOCTRINE_MAP.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_DOCTRINE_MAP.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_EXECUTION_HANDOFF_PROTOCOL.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_EXECUTION_HANDOFF_PROTOCOL.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_FIRST_PARTY_STACK.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_FIRST_PARTY_STACK.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_FORK_DOCTRINE.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_FORK_DOCTRINE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_GOAL_DRIVEN_PROTOCOL.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_GOAL_DRIVEN_PROTOCOL.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_NEXT_PHASE_ROADMAP_V1.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_NEXT_PHASE_ROADMAP_V1.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_OPERATING_CHECKLIST.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_OPERATING_CHECKLIST.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_PRODUCT_BIBLE.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_PRODUCT_BIBLE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_RUNTIME_RECOVERY_2026-03-11.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_RUNTIME_RECOVERY_2026-03-11.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_RUNTIME_REPAIR_2026-03-07.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_RUNTIME_REPAIR_2026-03-07.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_SELF_CHECK_CORRECTION.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_SELF_CHECK_CORRECTION.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_STABLE_STATE_BLUEPRINT.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_STABLE_STATE_BLUEPRINT.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_SYSTEM_OBJECTIVE_EVALUATION_V1.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_SYSTEM_OBJECTIVE_EVALUATION_V1.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPENCLAW_THREE_LAYER_HARNESS_DOCTRINE.md",
+      "url": "https://mydoc.inping.com/content/docs/OPENCLAW_THREE_LAYER_HARNESS_DOCTRINE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/OPERATIONAL_DOCTRINE.md",
+      "url": "https://mydoc.inping.com/content/docs/OPERATIONAL_DOCTRINE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/PROJECTCTL_HARNESS_NOTES.md",
+      "url": "https://mydoc.inping.com/content/docs/PROJECTCTL_HARNESS_NOTES.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/ROUTING_AND_STAGE_HEURISTICS.md",
+      "url": "https://mydoc.inping.com/content/docs/ROUTING_AND_STAGE_HEURISTICS.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/RUNTIME_HARNESS_DEFAULTS.md",
+      "url": "https://mydoc.inping.com/content/docs/RUNTIME_HARNESS_DEFAULTS.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/SKILL_MATURITY_REGISTRY_RULES.md",
+      "url": "https://mydoc.inping.com/content/docs/SKILL_MATURITY_REGISTRY_RULES.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/SYSTEM_LOCAL_CITY_NETWORK_PLAN.md",
+      "url": "https://mydoc.inping.com/content/docs/SYSTEM_LOCAL_CITY_NETWORK_PLAN.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/TELEGRAM_COMPATIBILITY_RULES.md",
+      "url": "https://mydoc.inping.com/content/docs/TELEGRAM_COMPATIBILITY_RULES.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/TOOL_GOVERNANCE_MATRIX.md",
+      "url": "https://mydoc.inping.com/content/docs/TOOL_GOVERNANCE_MATRIX.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/WORKFLOW_SUPERPOWERS_ABSORPTION.md",
+      "url": "https://mydoc.inping.com/content/docs/WORKFLOW_SUPERPOWERS_ABSORPTION.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/agents/gstack-absorption-notes.md",
+      "url": "https://mydoc.inping.com/content/docs/agents/gstack-absorption-notes.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/agents/openclaw-autoresearch-integration.md",
+      "url": "https://mydoc.inping.com/content/docs/agents/openclaw-autoresearch-integration.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/agents/openclaw-software-factory-draft.md",
+      "url": "https://mydoc.inping.com/content/docs/agents/openclaw-software-factory-draft.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/ai-comic-platform-research-cn-2026-03-19.md",
+      "url": "https://mydoc.inping.com/content/docs/ai-comic-platform-research-cn-2026-03-19.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/claude-execution-protocol.md",
+      "url": "https://mydoc.inping.com/content/docs/claude-execution-protocol.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/context-control/CONTEXT_CONTROL_PROTOCOL.md",
+      "url": "https://mydoc.inping.com/content/docs/context-control/CONTEXT_CONTROL_PROTOCOL.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/design/MYDOC_ARCHIVE_CENTER_V2.md",
+      "url": "https://mydoc.inping.com/content/docs/design/MYDOC_ARCHIVE_CENTER_V2.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/design/OPENCLAW_AGENT_WORKSPACE.md",
+      "url": "https://mydoc.inping.com/content/docs/design/OPENCLAW_AGENT_WORKSPACE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/design/STITCH_UI_METHOD_ABSORPTION.md",
+      "url": "https://mydoc.inping.com/content/docs/design/STITCH_UI_METHOD_ABSORPTION.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/design/UNIFIED_UI_DEVELOPMENT_WORKFLOW.md",
+      "url": "https://mydoc.inping.com/content/docs/design/UNIFIED_UI_DEVELOPMENT_WORKFLOW.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/geo/openclaw-geo-agent-spec.md",
+      "url": "https://mydoc.inping.com/content/docs/geo/openclaw-geo-agent-spec.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/geo/website-geo-seo-publishing-checklist.md",
+      "url": "https://mydoc.inping.com/content/docs/geo/website-geo-seo-publishing-checklist.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/heartbeat-mirrors/AGENT_LEARNING_PROTOCOL.md",
+      "url": "https://mydoc.inping.com/content/docs/heartbeat-mirrors/AGENT_LEARNING_PROTOCOL.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/heartbeat-mirrors/LEARNING_REDESIGN.md",
+      "url": "https://mydoc.inping.com/content/docs/heartbeat-mirrors/LEARNING_REDESIGN.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/heartbeat-mirrors/MEMORY_TREE.md",
+      "url": "https://mydoc.inping.com/content/docs/heartbeat-mirrors/MEMORY_TREE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/heartbeat-mirrors/README.md",
+      "url": "https://mydoc.inping.com/content/docs/heartbeat-mirrors/README.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/heartbeat-mirrors/agi-implementation.md",
+      "url": "https://mydoc.inping.com/content/docs/heartbeat-mirrors/agi-implementation.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/heartbeat-mirrors/agi-roadmap.md",
+      "url": "https://mydoc.inping.com/content/docs/heartbeat-mirrors/agi-roadmap.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/imiaoda-content-growth-plan.md",
+      "url": "https://mydoc.inping.com/content/docs/imiaoda-content-growth-plan.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/AI_FRONTIER_LOOP.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/AI_FRONTIER_LOOP.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/builders/high-output-builders-2026-03-24.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/builders/high-output-builders-2026-03-24.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/builders/high-output-builders-2026-03-25.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/builders/high-output-builders-2026-03-25.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/builders/high-output-builders-2026-03-26.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/builders/high-output-builders-2026-03-26.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/builders/high-output-builders-2026-03-27.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/builders/high-output-builders-2026-03-27.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/builders/high-output-builders-2026-03-28.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/builders/high-output-builders-2026-03-28.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/builders/high-output-builders-2026-03-29.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/builders/high-output-builders-2026-03-29.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/builders/high-output-builders-2026-03-30.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/builders/high-output-builders-2026-03-30.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/frontier-ai-2026-03-07.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/frontier-ai-2026-03-07.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/frontier-ai-2026-03-08.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/frontier-ai-2026-03-08.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/frontier-ai-2026-03-09.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/frontier-ai-2026-03-09.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/frontier-ai-2026-03-24.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/frontier-ai-2026-03-24.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/frontier-ai-2026-03-25.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/frontier-ai-2026-03-25.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/frontier-ai-2026-03-26.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/frontier-ai-2026-03-26.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/frontier-ai-2026-03-27.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/frontier-ai-2026-03-27.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/frontier-ai-2026-03-28.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/frontier-ai-2026-03-28.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/frontier-ai-2026-03-29.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/frontier-ai-2026-03-29.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/frontier-ai-2026-03-30.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/frontier-ai-2026-03-30.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/frontier-intel-sources.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/frontier-intel-sources.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/high-output-builders-sources.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/high-output-builders-sources.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/promotions/intel-promotions-2026-03-24.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/promotions/intel-promotions-2026-03-24.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/promotions/intel-promotions-2026-03-24.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/promotions/intel-promotions-2026-03-24.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/promotions/intel-promotions-2026-03-25.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/promotions/intel-promotions-2026-03-25.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/promotions/intel-promotions-2026-03-25.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/promotions/intel-promotions-2026-03-25.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/promotions/intel-promotions-2026-03-26.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/promotions/intel-promotions-2026-03-26.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/promotions/intel-promotions-2026-03-26.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/promotions/intel-promotions-2026-03-26.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/promotions/intel-promotions-2026-03-27.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/promotions/intel-promotions-2026-03-27.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/promotions/intel-promotions-2026-03-27.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/promotions/intel-promotions-2026-03-27.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/promotions/intel-promotions-2026-03-28.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/promotions/intel-promotions-2026-03-28.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/promotions/intel-promotions-2026-03-28.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/promotions/intel-promotions-2026-03-28.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/promotions/intel-promotions-2026-03-29.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/promotions/intel-promotions-2026-03-29.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/promotions/intel-promotions-2026-03-29.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/promotions/intel-promotions-2026-03-29.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/promotions/intel-promotions-2026-03-30.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/promotions/intel-promotions-2026-03-30.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/promotions/intel-promotions-2026-03-30.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/promotions/intel-promotions-2026-03-30.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260324-172229.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260324-172229.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260324-172229.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260324-172229.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260324-172540.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260324-172540.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260324-172540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260324-172540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260324-212540.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260324-212540.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260324-212540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260324-212540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260325-012540.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260325-012540.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260325-012540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260325-012540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260325-052540.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260325-052540.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260325-052540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260325-052540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260325-092541.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260325-092541.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260325-092541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260325-092541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260325-132541.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260325-132541.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260325-132541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260325-132541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260325-172541.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260325-172541.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260325-172541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260325-172541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260325-212541.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260325-212541.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260325-212541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260325-212541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260326-012541.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260326-012541.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260326-012541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260326-012541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260326-052542.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260326-052542.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260326-052542.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260326-052542.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260326-092542.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260326-092542.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260326-092542.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260326-092542.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260326-132540.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260326-132540.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260326-132540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260326-132540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260326-172540.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260326-172540.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260326-172540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260326-172540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260326-212540.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260326-212540.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260326-212540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260326-212540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260327-012540.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260327-012540.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260327-012540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260327-012540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260327-052540.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260327-052540.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260327-052540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260327-052540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260327-092541.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260327-092541.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260327-092541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260327-092541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260327-132541.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260327-132541.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260327-132541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260327-132541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260327-172541.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260327-172541.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260327-172541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260327-172541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260327-212541.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260327-212541.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260327-212541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260327-212541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260328-012542.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260328-012542.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260328-012542.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260328-012542.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260328-052542.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260328-052542.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260328-052542.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260328-052542.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260328-092542.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260328-092542.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260328-092542.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260328-092542.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260328-132542.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260328-132542.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260328-132542.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260328-132542.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260328-172543.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260328-172543.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260328-172543.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260328-172543.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260328-190143.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260328-190143.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260328-190143.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260328-190143.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260329-141346.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260329-141346.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260329-141346.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260329-141346.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260329-181348.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260329-181348.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260329-181348.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260329-181348.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260329-221348.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260329-221348.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260329-221348.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260329-221348.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260330-021349.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260330-021349.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260330-021349.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260330-021349.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260330-061349.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260330-061349.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260330-061349.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260330-061349.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260330-101349.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260330-101349.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260330-101349.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260330-101349.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260330-141349.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260330-141349.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260330-141349.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260330-141349.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260330-181348.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260330-181348.json",
+      "local_exists": false,
+      "status": 404,
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "rel": "docs/intel/x-watch-curated/x-watch-curated-20260330-181348.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch-curated/x-watch-curated-20260330-181348.md",
+      "local_exists": false,
+      "status": 404,
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260324-144155.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260324-144155.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260324-144156.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260324-144156.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260324-144440.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260324-144440.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260324-144615.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260324-144615.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260324-144710.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260324-144710.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260324-164307.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260324-164307.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260324-164538.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260324-164538.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260324-164744.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260324-164744.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260324-172229.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260324-172229.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260324-172540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260324-172540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260324-212540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260324-212540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260325-012540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260325-012540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260325-052540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260325-052540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260325-092541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260325-092541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260325-132541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260325-132541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260325-172541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260325-172541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260325-212541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260325-212541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260326-012541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260326-012541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260326-052542.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260326-052542.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260326-092542.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260326-092542.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260326-132540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260326-132540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260326-172540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260326-172540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260326-212540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260326-212540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260327-012540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260327-012540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260327-052540.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260327-052540.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260327-092541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260327-092541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260327-132541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260327-132541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260327-172541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260327-172541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260327-212541.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260327-212541.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260328-012542.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260328-012542.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260328-052542.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260328-052542.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260328-092542.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260328-092542.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260328-132542.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260328-132542.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260328-172543.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260328-172543.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260328-190143.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260328-190143.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260329-141346.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260329-141346.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260329-181348.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260329-181348.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260329-221348.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260329-221348.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260330-021349.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260330-021349.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260330-061349.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260330-061349.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260330-101349.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260330-101349.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260330-141349.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260330-141349.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/intel/x-watch/x-watch-20260330-181348.md",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watch/x-watch-20260330-181348.md",
+      "local_exists": false,
+      "status": 404,
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "rel": "docs/intel/x-watchlist.json",
+      "url": "https://mydoc.inping.com/content/docs/intel/x-watchlist.json",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/research/wechat-paid-fiction-zhuixu-analysis-2026-03-20.md",
+      "url": "https://mydoc.inping.com/content/docs/research/wechat-paid-fiction-zhuixu-analysis-2026-03-20.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/runtime-patch-reapply.md",
+      "url": "https://mydoc.inping.com/content/docs/runtime-patch-reapply.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/xianxia-overseas-multilingual-strategy-2026-03-19.md",
+      "url": "https://mydoc.inping.com/content/docs/xianxia-overseas-multilingual-strategy-2026-03-19.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/xiaoshuo_novel_upgrade_plan.md",
+      "url": "https://mydoc.inping.com/content/docs/xiaoshuo_novel_upgrade_plan.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "docs/zolveta-platform/PLATFORM_PRD.md",
+      "url": "https://mydoc.inping.com/content/docs/zolveta-platform/PLATFORM_PRD.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-07.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-07.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-08.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-08.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-09.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-09.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-10.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-10.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-11.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-11.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-12.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-12.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-13.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-13.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-14.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-14.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-15.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-15.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-16.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-16.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-17.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-17.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-18.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-18.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-19.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-19.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-20.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-20.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-21.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-21.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-22.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-22.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-23.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-23.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-24.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-24.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-25.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-25.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-26.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-26.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-27.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-27.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-28.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-28.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-29.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-29.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/2026-03-30.md",
+      "url": "https://mydoc.inping.com/content/memory/2026-03-30.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/bugs.md",
+      "url": "https://mydoc.inping.com/content/memory/bugs.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/decisions.md",
+      "url": "https://mydoc.inping.com/content/memory/decisions.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/learnings.md",
+      "url": "https://mydoc.inping.com/content/memory/learnings.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/optimizations.md",
+      "url": "https://mydoc.inping.com/content/memory/optimizations.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/patterns.md",
+      "url": "https://mydoc.inping.com/content/memory/patterns.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "memory/system-knowledge.md",
+      "url": "https://mydoc.inping.com/content/memory/system-knowledge.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/chat-mirror/docs/ACCEPTANCE.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/ACCEPTANCE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/chat-mirror/docs/AGENT_STUDIO_ROADMAP.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/AGENT_STUDIO_ROADMAP.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/chat-mirror/docs/AGENT_UPGRADE_BLUEPRINT.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/AGENT_UPGRADE_BLUEPRINT.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/chat-mirror/docs/APPLE_RELEASE_READINESS.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/APPLE_RELEASE_READINESS.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/chat-mirror/docs/DECISIONS.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/DECISIONS.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/chat-mirror/docs/DEPLOYMENT.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/DEPLOYMENT.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/chat-mirror/docs/ENVIRONMENTS_ROADMAP.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/ENVIRONMENTS_ROADMAP.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/chat-mirror/docs/GLOBAL_PRODUCT_DEVELOPMENT_PLAN.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/GLOBAL_PRODUCT_DEVELOPMENT_PLAN.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/chat-mirror/docs/GOAL_DRIVEN_UI_WORKFLOW.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/GOAL_DRIVEN_UI_WORKFLOW.md",
+      "local_exists": true,
+      "status": 403,
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "rel": "projects/chat-mirror/docs/HARMONY_PACKAGING.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/HARMONY_PACKAGING.md",
+      "local_exists": true,
+      "status": 403,
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "rel": "projects/chat-mirror/docs/KNOWLEDGE_WORK_PLUGINS_IMPLEMENTATION_PLAN.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/KNOWLEDGE_WORK_PLUGINS_IMPLEMENTATION_PLAN.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/chat-mirror/docs/PACKAGING.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/PACKAGING.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/chat-mirror/docs/RUNBOOK.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/RUNBOOK.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/chat-mirror/docs/STITCH_METHOD_ABSORPTION.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/STITCH_METHOD_ABSORPTION.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/chat-mirror/docs/STORE_METADATA.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/STORE_METADATA.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/chat-mirror/docs/UI_DENSITY_AUDIT_2026-03-13.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/UI_DENSITY_AUDIT_2026-03-13.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/chat-mirror/docs/V1_RELEASE.md",
+      "url": "https://mydoc.inping.com/content/projects/chat-mirror/docs/V1_RELEASE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/macos-only/docs/INSTALL_AND_PERMISSIONS.md",
+      "url": "https://mydoc.inping.com/content/projects/macos-only/docs/INSTALL_AND_PERMISSIONS.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/macos-only/docs/OPENCLAW_GHOST_DESKTOP_OVERVIEW.md",
+      "url": "https://mydoc.inping.com/content/projects/macos-only/docs/OPENCLAW_GHOST_DESKTOP_OVERVIEW.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/macos-only/docs/RECIPE_STRATEGY.md",
+      "url": "https://mydoc.inping.com/content/projects/macos-only/docs/RECIPE_STRATEGY.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/macos-only/docs/ROUTING_AND_VERIFICATION.md",
+      "url": "https://mydoc.inping.com/content/projects/macos-only/docs/ROUTING_AND_VERIFICATION.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/new2005-finance/docs/EVIDENCE_BOARD.md",
+      "url": "https://mydoc.inping.com/content/projects/new2005-finance/docs/EVIDENCE_BOARD.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/new2005-finance/docs/GOAL_DRIVEN_MISSION.md",
+      "url": "https://mydoc.inping.com/content/projects/new2005-finance/docs/GOAL_DRIVEN_MISSION.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/new2005-finance/docs/RELEASE_ROLLBACK.md",
+      "url": "https://mydoc.inping.com/content/projects/new2005-finance/docs/RELEASE_ROLLBACK.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/new2005-finance/docs/content-factory-mvp.md",
+      "url": "https://mydoc.inping.com/content/projects/new2005-finance/docs/content-factory-mvp.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/new2005-finance/docs/content-generation.md",
+      "url": "https://mydoc.inping.com/content/projects/new2005-finance/docs/content-generation.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/ACP_DESCRIPTOR_HYGIENE.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/ACP_DESCRIPTOR_HYGIENE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/ACP_DESCRIPTOR_HYGIENE_ENFORCEMENT.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/ACP_DESCRIPTOR_HYGIENE_ENFORCEMENT.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/ANNOTATION_PROTOCOL.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/ANNOTATION_PROTOCOL.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/ARCHITECTURE.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/ARCHITECTURE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/ARCHITECTURE_CONVERGENCE.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/ARCHITECTURE_CONVERGENCE.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/BOUNDARIES.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/BOUNDARIES.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/CONTAMINATION_CLEANUP_PLAN.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/CONTAMINATION_CLEANUP_PLAN.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/DECISIONS.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/DECISIONS.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/DEPLOYMENT.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/DEPLOYMENT.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/EVIDENCE_BOARD.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/EVIDENCE_BOARD.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/EXECUTION_SURFACE_PROTOCOL.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/EXECUTION_SURFACE_PROTOCOL.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/INPUT_SOURCES.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/INPUT_SOURCES.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/ITERATION_18_PLAN.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/ITERATION_18_PLAN.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/ITERATION_PLAN.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/ITERATION_PLAN.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/PRD.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/PRD.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/PROJECT_CONTROL_PROTOCOL.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/PROJECT_CONTROL_PROTOCOL.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/RUNBOOK.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/RUNBOOK.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/WORKER_STATUS_SCHEMA.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/WORKER_STATUS_SCHEMA.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-brief-iteration-04.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-brief-iteration-04.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-10/architect.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-10/architect.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-10/coder.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-10/coder.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-10/profiler.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-10/profiler.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-10/reviewer.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-10/reviewer.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-11/architect.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-11/architect.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-11/coder.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-11/coder.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-11/profiler.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-11/profiler.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-11/reviewer.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-11/reviewer.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-12/architect.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-12/architect.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-12/coder.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-12/coder.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-12/profiler.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-12/profiler.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-12/reviewer.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-12/reviewer.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-13/architect.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-13/architect.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-13/coder.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-13/coder.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-13/profiler.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-13/profiler.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-13/reviewer.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-13/reviewer.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-14/architect.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-14/architect.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-14/coder.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-14/coder.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-14/profiler.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-14/profiler.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-14/reviewer.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-14/reviewer.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-15/architect.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-15/architect.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-15/coder.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-15/coder.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-15/profiler.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-15/profiler.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-15/reviewer.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-15/reviewer.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-16/architect.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-16/architect.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-16/coder.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-16/coder.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-16/profiler.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-16/profiler.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-16/reviewer.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-16/reviewer.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-17/architect.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-17/architect.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-17/coder.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-17/coder.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-17/profiler.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-17/profiler.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-17/reviewer.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-17/reviewer.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-18/architect.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-18/architect.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-18/coder.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-18/coder.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-18/iteration-18-brief.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-18/iteration-18-brief.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-18/profiler.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-18/profiler.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-18/reviewer.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-18/reviewer.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-19/architect.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-19/architect.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-19/coder.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-19/coder.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-19/iteration-19-dedup.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-19/iteration-19-dedup.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-19/profiler.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-19/profiler.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-19/reviewer.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-19/reviewer.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-8/architect.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-8/architect.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-8/coder.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-8/coder.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-8/profiler.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-8/profiler.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "projects/原始/docs/claude-squad-iteration-8/reviewer.md",
+      "url": "https://mydoc.inping.com/content/projects/%E5%8E%9F%E5%A7%8B/docs/claude-squad-iteration-8/reviewer.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "workspace-root/AGENTS.md",
+      "url": "https://mydoc.inping.com/content/workspace-root/AGENTS.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "workspace-root/HEARTBEAT.md",
+      "url": "https://mydoc.inping.com/content/workspace-root/HEARTBEAT.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "workspace-root/IDENTITY.md",
+      "url": "https://mydoc.inping.com/content/workspace-root/IDENTITY.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "workspace-root/MEMORY.md",
+      "url": "https://mydoc.inping.com/content/workspace-root/MEMORY.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "workspace-root/SOUL.md",
+      "url": "https://mydoc.inping.com/content/workspace-root/SOUL.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "workspace-root/TOOLS.md",
+      "url": "https://mydoc.inping.com/content/workspace-root/TOOLS.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    },
+    {
+      "rel": "workspace-root/USER.md",
+      "url": "https://mydoc.inping.com/content/workspace-root/USER.md",
+      "local_exists": true,
+      "status": 200,
+      "ok": true,
+      "error": null
+    }
+  ]
+}

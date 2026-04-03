@@ -1,0 +1,13 @@
+{
+  "date": "2026-03-19",
+  "generatedBy": "OpenClaw",
+  "reviewVersion": 1,
+  "sources": [
+    {"type": "internal", "path": "content/docs/PHASE_REVIEW_LOOP.md"},
+    {"type": "internal", "path": "content/archive/review/2026-03-19/phase-review.md"},
+    {"type": "internal", "path": "content/archive/review/2026-03-19/intel-brief.md"},
+    {"type": "internal", "path": "content/archive/review/2026-03-19/mentor-feedback.md"},
+    {"type": "site", "url": "https://mydoc.inping.com"},
+    {"type": "model-endpoint", "url": "https://ttqq.inping.com/v1/chat/completions", "model": "gpt-5.4", "fallback": ["grok-420-thinking", "auto"]}
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "sources": [
+    {
+      "id": "arxiv-cs-ai",
+      "label": "arXiv cs.AI",
+      "kind": "paper",
+      "url": "https://rss.arxiv.org/rss/cs.AI"
+    },
+    {
+      "id": "arxiv-cs-lg",
+      "label": "arXiv cs.LG",
+      "kind": "paper",
+      "url": "https://rss.arxiv.org/rss/cs.LG"
+    },
+    {
+      "id": "huggingface-blog",
+      "label": "Hugging Face Blog",
+      "kind": "official",
+      "url": "https://huggingface.co/blog/feed.xml"
+    },
+    {
+      "id": "github-openai-python",
+      "label": "GitHub Releases - openai/openai-python",
+      "kind": "release",
+      "url": "https://github.com/openai/openai-python/releases.atom"
+    },
+    {
+      "id": "github-openai-node",
+      "label": "GitHub Releases - openai/openai-node",
+      "kind": "release",
+      "url": "https://github.com/openai/openai-node/releases.atom"
+    },
+    {
+      "id": "github-anthropic-ts",
+      "label": "GitHub Releases - anthropics/anthropic-sdk-typescript",
+      "kind": "release",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases.atom"
+    }
+  ]
+}
