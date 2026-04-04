@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-04T13:58:50.836773Z",
-  "count": 527,
+  "generatedAt": "2026-04-04T14:40:57.269533Z",
+  "count": 530,
   "items": [
     {
       "path": "archive/review/2026-03-19/evidence.json",
@@ -1198,6 +1198,11 @@
       "modified": "2026-04-04T10:13:56.645769+00:00"
     },
     {
+      "path": "docs/intel/x-watch/x-watch-20260404-221356.md",
+      "size": 3076,
+      "modified": "2026-04-04T14:13:56.155837+00:00"
+    },
+    {
       "path": "docs/intel/x-watch-curated/x-watch-curated-20260324-172229.json",
       "size": 2441,
       "modified": "2026-03-24T09:38:26.420284+00:00"
@@ -1848,6 +1853,16 @@
       "modified": "2026-04-04T10:13:56.704064+00:00"
     },
     {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260404-221356.json",
+      "size": 3,
+      "modified": "2026-04-04T14:13:56.215232+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260404-221356.md",
+      "size": 584,
+      "modified": "2026-04-04T14:13:56.215097+00:00"
+    },
+    {
       "path": "docs/intel/x-watchlist.json",
       "size": 2211,
       "modified": "2026-03-24T07:39:32.159580+00:00"
@@ -2049,8 +2064,8 @@
     },
     {
       "path": "memory/2026-04-04.md",
-      "size": 4614,
-      "modified": "2026-04-04T06:07:53.682214+00:00"
+      "size": 7592,
+      "modified": "2026-04-04T14:01:14.274181+00:00"
     },
     {
       "path": "memory/bugs.md",
