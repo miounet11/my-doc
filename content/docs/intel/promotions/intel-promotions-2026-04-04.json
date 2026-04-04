@@ -1,0 +1,16 @@
+[
+  {
+    "lane": "builders",
+    "priority": "P0 now",
+    "title": "2.1.91",
+    "source": "Claude Code Changelog",
+    "link": "https://code.claude.com/docs/en/changelog",
+    "date": "April 2, 2026",
+    "why": "Version 2.1.91 listed on Claude Code Changelog",
+    "score": 7,
+    "rationale": "already ranked P0 in builder lane; explicit workflow/tool impact; direct execution-surface change",
+    "promotion_target": "doctrine/workflow/evaluation",
+    "action_type": "workflow patch",
+    "source_family": "claude-code-changelog"
+  }
+]
