@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T06:42:37.873248Z",
+  "generatedAt": "2026-04-04T13:58:50.750277Z",
   "manifest": "config/workspace-sync-manifest.json",
   "managedRoots": [
     "docs",
@@ -7,7 +7,7 @@
     "projects",
     "workspace-root"
   ],
-  "desiredCount": 507,
+  "desiredCount": 510,
   "copiedCount": 0,
   "removedCount": 0,
   "missingSources": [],
