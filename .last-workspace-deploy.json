@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T00:40:34.631895Z",
+  "generatedAt": "2026-04-06T00:42:42.421996Z",
   "status": "blocked",
-  "detail": "SSH port 22 refused on 172.245.114.89; local mirror refreshed but remote deploy was not possible."
+  "detail": "SSH control session could not be established on 172.245.114.89."
 }
