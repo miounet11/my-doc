@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-11T11:03:19.409719Z",
-  "count": 690,
+  "generatedAt": "2026-04-12T15:07:07.300078Z",
+  "count": 716,
   "items": [
     {
       "path": "archive/review/2026-03-19/evidence.json",
@@ -663,6 +663,11 @@
       "modified": "2026-04-10T23:30:12.659078+00:00"
     },
     {
+      "path": "docs/intel/builders/high-output-builders-2026-04-12.md",
+      "size": 5921,
+      "modified": "2026-04-11T23:30:13.534462+00:00"
+    },
+    {
       "path": "docs/intel/frontier-ai-2026-03-07.md",
       "size": 567,
       "modified": "2026-03-10T00:23:38+00:00"
@@ -771,6 +776,11 @@
       "path": "docs/intel/frontier-ai-2026-04-11.md",
       "size": 8389,
       "modified": "2026-04-10T22:30:10.003119+00:00"
+    },
+    {
+      "path": "docs/intel/frontier-ai-2026-04-12.md",
+      "size": 8010,
+      "modified": "2026-04-11T22:30:05.046842+00:00"
     },
     {
       "path": "docs/intel/frontier-intel-sources.json",
@@ -971,6 +981,16 @@
       "path": "docs/intel/promotions/intel-promotions-2026-04-11.md",
       "size": 1410,
       "modified": "2026-04-11T00:00:04.835345+00:00"
+    },
+    {
+      "path": "docs/intel/promotions/intel-promotions-2026-04-12.json",
+      "size": 1170,
+      "modified": "2026-04-12T00:00:04.952797+00:00"
+    },
+    {
+      "path": "docs/intel/promotions/intel-promotions-2026-04-12.md",
+      "size": 1936,
+      "modified": "2026-04-12T00:00:04.952682+00:00"
     },
     {
       "path": "docs/intel/x-watch/x-watch-20260324-144155.md",
@@ -1546,6 +1566,41 @@
       "path": "docs/intel/x-watch/x-watch-20260411-181408.md",
       "size": 3076,
       "modified": "2026-04-11T10:14:08.403592+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch/x-watch-20260411-221408.md",
+      "size": 3076,
+      "modified": "2026-04-11T14:14:08.615975+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch/x-watch-20260412-021406.md",
+      "size": 3076,
+      "modified": "2026-04-11T18:14:06.969297+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch/x-watch-20260412-061406.md",
+      "size": 3076,
+      "modified": "2026-04-11T22:14:06.999993+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch/x-watch-20260412-101407.md",
+      "size": 3076,
+      "modified": "2026-04-12T02:14:07.089092+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch/x-watch-20260412-141407.md",
+      "size": 3076,
+      "modified": "2026-04-12T06:14:07.585909+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch/x-watch-20260412-181408.md",
+      "size": 3076,
+      "modified": "2026-04-12T10:14:08.138018+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch/x-watch-20260412-221407.md",
+      "size": 3076,
+      "modified": "2026-04-12T14:14:07.559369+00:00"
     },
     {
       "path": "docs/intel/x-watch-curated/x-watch-curated-20260324-172229.json",
@@ -2618,6 +2673,76 @@
       "modified": "2026-04-11T10:14:08.444975+00:00"
     },
     {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260411-221408.json",
+      "size": 3,
+      "modified": "2026-04-11T14:14:08.676922+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260411-221408.md",
+      "size": 584,
+      "modified": "2026-04-11T14:14:08.676768+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260412-021406.json",
+      "size": 3,
+      "modified": "2026-04-11T18:14:07.031177+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260412-021406.md",
+      "size": 584,
+      "modified": "2026-04-11T18:14:07.031054+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260412-061406.json",
+      "size": 3,
+      "modified": "2026-04-11T22:14:07.065406+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260412-061406.md",
+      "size": 584,
+      "modified": "2026-04-11T22:14:07.065281+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260412-101407.json",
+      "size": 3,
+      "modified": "2026-04-12T02:14:07.152775+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260412-101407.md",
+      "size": 584,
+      "modified": "2026-04-12T02:14:07.152603+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260412-141407.json",
+      "size": 3,
+      "modified": "2026-04-12T06:14:07.649415+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260412-141407.md",
+      "size": 584,
+      "modified": "2026-04-12T06:14:07.649284+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260412-181408.json",
+      "size": 3,
+      "modified": "2026-04-12T10:14:08.192970+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260412-181408.md",
+      "size": 584,
+      "modified": "2026-04-12T10:14:08.192825+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260412-221407.json",
+      "size": 3,
+      "modified": "2026-04-12T14:14:07.632219+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260412-221407.md",
+      "size": 584,
+      "modified": "2026-04-12T14:14:07.632088+00:00"
+    },
+    {
       "path": "docs/intel/x-watchlist.json",
       "size": 2211,
       "modified": "2026-03-24T07:39:32.159580+00:00"
@@ -2854,8 +2979,13 @@
     },
     {
       "path": "memory/2026-04-11.md",
-      "size": 2079,
-      "modified": "2026-04-11T04:26:59.353743+00:00"
+      "size": 5679,
+      "modified": "2026-04-11T14:00:46.179044+00:00"
+    },
+    {
+      "path": "memory/2026-04-12.md",
+      "size": 6614,
+      "modified": "2026-04-12T14:00:59.568264+00:00"
     },
     {
       "path": "memory/bugs.md",
