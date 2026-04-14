@@ -10,6 +10,7 @@ If `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out w
 
 Before doing anything else:
 
+0. Ensure `memory/YYYY-MM-DD.md` for today exists. If it does not, create it before the required read steps and record that first-run creation honestly in the new daily file.
 1. Read `SOUL.md` — this is who you are
 2. Read `USER.md` — this is who you're helping
 3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
