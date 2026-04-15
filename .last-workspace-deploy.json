@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T13:43:40.084654Z",
-  "status": "blocked",
-  "detail": "SSH control session could not be established on 172.245.114.89."
+  "generatedAt": "2026-04-15T02:39:12.090269Z",
+  "status": "failed",
+  "detail": "Remote URL verification failed after deploy."
 }
