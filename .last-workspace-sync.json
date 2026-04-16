@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T22:32:02.475886Z",
+  "generatedAt": "2026-04-16T22:35:13.902802Z",
   "manifest": "config/workspace-sync-manifest.json",
   "managedRoots": [
     "docs",
@@ -8,7 +8,7 @@
     "workspace-root"
   ],
   "desiredCount": 795,
-  "copiedCount": 1,
+  "copiedCount": 0,
   "removedCount": 0,
   "missingSources": [],
   "verifyTargets": [
@@ -17,8 +17,6 @@
     "content/memory/2026-04-02.md",
     "content/memory/2026-04-14.md"
   ],
-  "copiedSample": [
-    "docs/intel/frontier-ai-2026-04-17.md"
-  ],
+  "copiedSample": [],
   "removedSample": []
 }
