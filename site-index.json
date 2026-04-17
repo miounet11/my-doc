@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T22:29:54.640472Z",
-  "count": 834,
+  "generatedAt": "2026-04-17T22:32:20.194588Z",
+  "count": 835,
   "items": [
     {
       "path": "archive/review/2026-03-19/evidence.json",
@@ -831,6 +831,11 @@
       "path": "docs/intel/frontier-ai-2026-04-17.md",
       "size": 8424,
       "modified": "2026-04-16T22:30:07.276700+00:00"
+    },
+    {
+      "path": "docs/intel/frontier-ai-2026-04-18.md",
+      "size": 8765,
+      "modified": "2026-04-17T22:30:10.114842+00:00"
     },
     {
       "path": "docs/intel/frontier-intel-sources.json",
