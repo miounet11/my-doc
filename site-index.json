@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T00:31:58.781715Z",
-  "count": 816,
+  "generatedAt": "2026-04-17T00:51:08.040229Z",
+  "count": 818,
   "items": [
     {
       "path": "archive/review/2026-03-19/evidence.json",
@@ -3231,6 +3231,16 @@
       "path": "docs/intel/x-watch-curated/x-watch-curated-20260417-061416.md",
       "size": 584,
       "modified": "2026-04-16T22:14:16.232672+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260417-085054.json",
+      "size": 3,
+      "modified": "2026-04-17T00:51:00.740969+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch-curated/x-watch-curated-20260417-085054.md",
+      "size": 584,
+      "modified": "2026-04-17T00:51:00.739596+00:00"
     },
     {
       "path": "docs/intel/x-watchlist.json",
