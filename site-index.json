@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T00:51:08.040229Z",
-  "count": 818,
+  "generatedAt": "2026-04-17T00:54:23.362421Z",
+  "count": 819,
   "items": [
     {
       "path": "archive/review/2026-03-19/evidence.json",
@@ -1831,6 +1831,11 @@
       "path": "docs/intel/x-watch/x-watch-20260417-061416.md",
       "size": 3076,
       "modified": "2026-04-16T22:14:16.164348+00:00"
+    },
+    {
+      "path": "docs/intel/x-watch/x-watch-20260417-085054.md",
+      "size": 3076,
+      "modified": "2026-04-17T00:50:59.751834+00:00"
     },
     {
       "path": "docs/intel/x-watch-curated/x-watch-curated-20260324-172229.json",
