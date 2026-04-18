@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-18T23:29:51.338565Z",
-  "count": 857,
+  "generatedAt": "2026-04-18T23:32:17.909990Z",
+  "count": 858,
   "items": [
     {
       "path": "archive/review/2026-03-19/evidence.json",
@@ -696,6 +696,11 @@
       "path": "docs/intel/builders/high-output-builders-2026-04-18.md",
       "size": 1685,
       "modified": "2026-04-17T23:30:09.578688+00:00"
+    },
+    {
+      "path": "docs/intel/builders/high-output-builders-2026-04-19.md",
+      "size": 1685,
+      "modified": "2026-04-18T23:30:07.989660+00:00"
     },
     {
       "path": "docs/intel/frontier-ai-2026-03-07.md",
