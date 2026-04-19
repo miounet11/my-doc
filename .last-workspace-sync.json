@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T11:38:20.694098Z",
+  "generatedAt": "2026-04-19T11:40:59.790627Z",
   "manifest": "config/workspace-sync-manifest.json",
   "managedRoots": [
     "docs",
@@ -8,7 +8,7 @@
     "workspace-root"
   ],
   "desiredCount": 852,
-  "copiedCount": 0,
+  "copiedCount": 1,
   "removedCount": 0,
   "missingSources": [],
   "verifyTargets": [
@@ -17,6 +17,8 @@
     "content/memory/2026-04-02.md",
     "content/memory/2026-04-19.md"
   ],
-  "copiedSample": [],
+  "copiedSample": [
+    "memory/2026-04-19.md"
+  ],
   "removedSample": []
 }
