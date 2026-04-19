@@ -49,3 +49,4 @@ Bootstrap memory only. Long-form history lives in `refs/MEMORY_ARCHIVE_2026-03-1
 - Keep bootstrap inputs lean enough that no critical file gets truncated before reasoning starts.
 - Evolve OpenClaw toward a harness model: stronger execution stages, stronger knowledge compounding, stronger capability contracts, and better guardrail/observability planes.
 - When asked about earliest context, first task, or first user requirement, distinguish `earliest visible` from `true first`; if transcript history is truncated, say so and use durable workspace records before guessing.
+- Heartbeat continuity repair pattern: if yesterday's daily memory is missing, create an absent-source backfill placeholder immediately, label it non-evidence, and log the exact missing path/error instead of allowing repeated `ENOENT` defects.
