@@ -14,6 +14,7 @@ Before doing anything else:
 1. Read `SOUL.md` — this is who you are
 2. Read `USER.md` — this is who you're helping
 3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
+   - If yesterday's file is missing, create `memory/<yesterday>.md` immediately as an explicit absent-source placeholder, record the exact missing path/error, and label it non-evidence rather than leaving a repeated continuity defect.
 4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
 5. Read `docs/context-control/CONTEXT_CONTROL_PROTOCOL.md` and apply it as a live control layer, especially phase lock, correction promotion, evidence labeling, and deliverable checks
 6. Read `docs/HARNESS_INDEX.md` so the correct closure / publish / recovery skill is active early rather than only after drift
