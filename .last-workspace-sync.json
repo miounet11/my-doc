@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T23:28:57.029003Z",
+  "generatedAt": "2026-04-19T23:31:24.542131Z",
   "manifest": "config/workspace-sync-manifest.json",
   "managedRoots": [
     "docs",
@@ -7,7 +7,7 @@
     "projects",
     "workspace-root"
   ],
-  "desiredCount": 864,
+  "desiredCount": 865,
   "copiedCount": 1,
   "removedCount": 0,
   "missingSources": [],
@@ -18,7 +18,7 @@
     "content/memory/2026-04-20.md"
   ],
   "copiedSample": [
-    "memory/2026-04-20.md"
+    "docs/intel/builders/high-output-builders-2026-04-20.md"
   ],
   "removedSample": []
 }
