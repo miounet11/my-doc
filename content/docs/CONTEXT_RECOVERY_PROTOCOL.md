@@ -18,6 +18,7 @@ When asked about earliest context, first task, first user requirement, or conver
 
 ## Recovery Order
 1. workspace bootstrap files: `SOUL.md`, `USER.md`, `MEMORY.md`, recent `memory/YYYY-MM-DD.md`
+   - If a relevant recent daily memory file is missing, create or require an absent-source placeholder before treating the gap as evidence. The placeholder must preserve the exact missing path/error, label the missing chronology as `blocked`, and state that the file is non-evidence rather than reconstructed history.
 2. external memory under `~/.openclaw/memory/` when it contains older or agent-level evidence not mirrored into workspace memory
 3. ready handoff artifacts under `workspace/handoffs/`; incomplete or TODO-only handoffs must not outrank durable memory
 4. relevant `refs/` documents that preserve older operating history

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T14:25:08.233048Z",
+  "generatedAt": "2026-04-19T14:27:39.429090Z",
   "count": 874,
   "items": [
     {
@@ -114,8 +114,8 @@
     },
     {
       "path": "docs/CONTEXT_RECOVERY_PROTOCOL.md",
-      "size": 2517,
-      "modified": "2026-03-30T16:23:33.571285+00:00"
+      "size": 2835,
+      "modified": "2026-04-19T14:26:01.038683+00:00"
     },
     {
       "path": "docs/ENGINEERING_POLISH_BOARD_2026-03-10.md",
@@ -3774,8 +3774,8 @@
     },
     {
       "path": "memory/2026-04-19.md",
-      "size": 16679,
-      "modified": "2026-04-19T14:01:48.664905+00:00"
+      "size": 19247,
+      "modified": "2026-04-19T14:26:18.541831+00:00"
     },
     {
       "path": "memory/bugs.md",
