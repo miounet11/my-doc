@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-19T12:53:08.473401Z",
-  "count": 873,
+  "generatedAt": "2026-04-19T12:55:38.036509Z",
+  "count": 874,
   "items": [
     {
       "path": "archive/review/2026-03-19/evidence.json",
@@ -3768,9 +3768,14 @@
       "modified": "2026-04-14T14:00:44.705065+00:00"
     },
     {
+      "path": "memory/2026-04-18.md",
+      "size": 1214,
+      "modified": "2026-04-19T12:54:40.859719+00:00"
+    },
+    {
       "path": "memory/2026-04-19.md",
-      "size": 5597,
-      "modified": "2026-04-19T12:28:52.414508+00:00"
+      "size": 6976,
+      "modified": "2026-04-19T12:55:15.841386+00:00"
     },
     {
       "path": "memory/bugs.md",
