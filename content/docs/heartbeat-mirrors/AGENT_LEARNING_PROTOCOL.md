@@ -77,6 +77,7 @@ Every agent should repeatedly study these files and treat them as source materia
 ## Required Output Shape
 
 When an agent does meaningful work, its memory entry should include:
+- original ask or heartbeat trigger
 - source files reviewed
 - hypothesis
 - action taken

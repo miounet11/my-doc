@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T01:22:51.765628Z",
+  "generatedAt": "2026-04-20T01:25:20.973239Z",
   "count": 888,
   "items": [
     {
@@ -529,8 +529,8 @@
     },
     {
       "path": "docs/heartbeat-mirrors/AGENT_LEARNING_PROTOCOL.md",
-      "size": 5981,
-      "modified": "2026-03-30T00:58:53.562715+00:00"
+      "size": 6017,
+      "modified": "2026-04-20T01:24:48.579067+00:00"
     },
     {
       "path": "docs/heartbeat-mirrors/LEARNING_REDESIGN.md",
@@ -3844,8 +3844,8 @@
     },
     {
       "path": "memory/2026-04-20.md",
-      "size": 139,
-      "modified": "2026-04-19T23:27:05.196951+00:00"
+      "size": 2488,
+      "modified": "2026-04-20T01:25:03.097636+00:00"
     },
     {
       "path": "memory/bugs.md",
