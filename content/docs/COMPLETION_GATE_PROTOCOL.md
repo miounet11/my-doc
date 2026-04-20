@@ -9,6 +9,8 @@ Prevent OpenClaw from declaring completion from narrative confidence, partial ex
 ## Rule
 No task may be described as complete unless its claimed completion level is supported by matching evidence.
 
+For meaningful task work and heartbeat repairs, the status report should explicitly preserve the original ask or trigger alongside the evidence so later verification can still judge whether the evidence answers the right question.
+
 ## Allowed Completion Levels
 ### 1. `drafted`
 Meaning:
