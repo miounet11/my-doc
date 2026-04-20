@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T01:25:20.871088Z",
+  "generatedAt": "2026-04-20T01:27:49.662537Z",
   "manifest": "config/workspace-sync-manifest.json",
   "managedRoots": [
     "docs",
@@ -8,7 +8,7 @@
     "workspace-root"
   ],
   "desiredCount": 870,
-  "copiedCount": 2,
+  "copiedCount": 0,
   "removedCount": 0,
   "missingSources": [],
   "verifyTargets": [
@@ -17,9 +17,6 @@
     "content/memory/2026-04-02.md",
     "content/memory/2026-04-20.md"
   ],
-  "copiedSample": [
-    "docs/heartbeat-mirrors/AGENT_LEARNING_PROTOCOL.md",
-    "memory/2026-04-20.md"
-  ],
+  "copiedSample": [],
   "removedSample": []
 }
