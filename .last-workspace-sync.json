@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T08:50:11.571555Z",
+  "generatedAt": "2026-04-23T08:52:46.047192Z",
   "manifest": "config/workspace-sync-manifest.json",
   "managedRoots": [
     "docs",
@@ -7,8 +7,8 @@
     "projects",
     "workspace-root"
   ],
-  "desiredCount": 940,
-  "copiedCount": 0,
+  "desiredCount": 943,
+  "copiedCount": 3,
   "removedCount": 0,
   "missingSources": [],
   "verifyTargets": [
@@ -17,6 +17,10 @@
     "content/memory/2026-04-02.md",
     "content/memory/2026-04-20.md"
   ],
-  "copiedSample": [],
+  "copiedSample": [
+    "docs/intel/x-watch-curated/x-watch-curated-20260423-165110.json",
+    "docs/intel/x-watch-curated/x-watch-curated-20260423-165110.md",
+    "docs/intel/x-watch/x-watch-20260423-165110.md"
+  ],
   "removedSample": []
 }
