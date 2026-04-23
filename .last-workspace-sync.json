@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T00:02:09.732872Z",
+  "generatedAt": "2026-04-23T00:04:42.125633Z",
   "manifest": "config/workspace-sync-manifest.json",
   "managedRoots": [
     "docs",
@@ -8,7 +8,7 @@
     "workspace-root"
   ],
   "desiredCount": 934,
-  "copiedCount": 2,
+  "copiedCount": 0,
   "removedCount": 0,
   "missingSources": [],
   "verifyTargets": [
@@ -17,9 +17,6 @@
     "content/memory/2026-04-02.md",
     "content/memory/2026-04-20.md"
   ],
-  "copiedSample": [
-    "docs/intel/promotions/intel-promotions-2026-04-23.json",
-    "docs/intel/promotions/intel-promotions-2026-04-23.md"
-  ],
+  "copiedSample": [],
   "removedSample": []
 }
