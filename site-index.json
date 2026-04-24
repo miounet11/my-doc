@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-24T00:00:04.641803Z",
-  "count": 972,
+  "generatedAt": "2026-04-24T00:02:38.105929Z",
+  "count": 974,
   "items": [
     {
       "path": "archive/review/2026-03-19/evidence.json",
@@ -1221,6 +1221,16 @@
       "path": "docs/intel/promotions/intel-promotions-2026-04-23.md",
       "size": 1412,
       "modified": "2026-04-23T00:00:05.717579+00:00"
+    },
+    {
+      "path": "docs/intel/promotions/intel-promotions-2026-04-24.json",
+      "size": 546,
+      "modified": "2026-04-24T00:00:05.450578+00:00"
+    },
+    {
+      "path": "docs/intel/promotions/intel-promotions-2026-04-24.md",
+      "size": 1412,
+      "modified": "2026-04-24T00:00:05.450435+00:00"
     },
     {
       "path": "docs/intel/x-watch/x-watch-20260324-144155.md",
