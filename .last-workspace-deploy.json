@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T09:39:01.124595Z",
-  "status": "blocked",
-  "detail": "SSH control session could not be established on 172.245.114.89."
+  "generatedAt": "2026-04-24T09:42:07.642159Z",
+  "status": "git-pushed-awaiting-live",
+  "detail": "SSH control session could not be established on 172.245.114.89; git fallback succeeded. Result: {\"ok\":true,\"changed\":true,\"branch\":\"main\",\"before\":\"2a971495b33a8b045bd2549eb592b0b6c8ced33e\",\"after\":\"8aa60832e854b62059639f64e07df868c2149f92\",\"message\":\"mydoc workspace sync 2026-04-24T09:41:36Z\"}"
 }
